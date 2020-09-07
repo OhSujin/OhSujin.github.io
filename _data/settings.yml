@@ -116,10 +116,10 @@ experience:
 
 education-title: Education
 education:
-- {name: BlockChain, date: '2020', organization: 'BIT', icon:'fab fa-python'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'DongEui University', icon:'fab fa-python'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School', icon:'fab fa-python'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School', icon:'fab fa-python'}
+- {name: BlockChain, date: '2020', organization: 'BIT'}
+- {name: Honours in Fine Arts, date: '2004', organization: 'DongEui University'}
+- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
+- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
 
 #-------------------------------
