@@ -1,12 +1,12 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: SujinOh
 logo: 
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
+email: 5sujin0307@gmail.com
+phone: +82 10 9186 0359
 address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Sujin <br> UX designer
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -95,10 +95,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Python, color: '#fdb157', value: '80%'}
+- {name: JavaScript, color: '#9473e6', value: '60%'}
+- {name: C, color: '#bdecf6', value: '50%'}
+- {name: SQL, color: '#ffbcaa', value: '90%'}
 
 
 #-------------------------------
@@ -106,8 +106,8 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
+- {name: Web Developer, icon: 'Doul.jpg', date: 'Sept 2020 - Present', organization: 'Doulit'}
+- {name: Student, icon: 'DEU.jpg', date: 'Mar 2015 - Feb 2020', organization: 'DongEui Univ.'} 
 - {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
@@ -116,10 +116,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: BlockChain, date: '2020', organization: 'BIT', icon:'fab fa-python'}
+- {name: Honours in Fine Arts, date: '2004', organization: 'DongEui University', icon:'fab fa-python'}
+- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School', icon:'fab fa-python'}
+- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School', icon:'fab fa-python'}
 
 
 #-------------------------------
