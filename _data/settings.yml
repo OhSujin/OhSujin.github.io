@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Sujin <br> UX designer
+  hero-title: Hi! I’m <br> Sujin <br> Web developer
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -52,13 +52,14 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Hello. This is Sujin Oh, born for programming. Why don't we fall into an endless world of programming together?
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
 
 
 # About Page
+
 
 # Work Process Section
 work-process:
@@ -108,7 +109,7 @@ experience-title: Experience
 experience:
 - {name: Web Developer, icon: 'Doul.jpg', date: 'Sept 2020 - Present', organization: 'Doulit'}
 - {name: Student, icon: 'DEU.jpg', date: 'Mar 2015 - Feb 2020', organization: 'DongEui Univ.'} 
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Github user, icon: 'githubImg.jpg', date: 'Sep 2020 - Present', organization: ' Github'}
 
 
 #-------------------------------
@@ -117,9 +118,13 @@ experience:
 education-title: Education
 education:
 - {name: BlockChain, date: '2020', organization: 'BIT'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'DongEui University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Database, date: '2019', organization: 'DongEui University'}
+- {name: Capstone Design, date: '2019', organization: 'DongEui University'}
+- {name: Algorithm, date: '2019', organization: 'DongEui University'}
+- {name: Mobile Computing, date: '2018', organization: 'DongEui University'}
+- {name: Object-Oriented Programmingd, date: '2018', organization: 'DongEui University'}
+- {name: Internet Programming, date: '2018', organization: 'DongEui University'}
+- {name: Software Design Engineering, date: '2017', organization: 'DongEui University'}
 
 
 #-------------------------------
@@ -196,43 +201,43 @@ portfolio-items:
     portfolio-type:
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#  - image : "assets/images/portfolio/item-3.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "illustration"
+#      
+#  - image : "assets/images/portfolio/item-6.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "design"
+#      - type: "branding"
+#      
+#  - image : "assets/images/portfolio/item-8.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "illustration"
+#      
+#  - image : "assets/images/portfolio/item-5.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "design"
+#      
+#  - image : "assets/images/portfolio/item-1.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "branding"
+#      
+#  - image : "assets/images/portfolio/item-3.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "design"
+#      - type: "illustration"
+#      - type: "branding"
+#      
+#  - image : "assets/images/portfolio/item-7.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "illustration"
 
 
 #-------------------------------
